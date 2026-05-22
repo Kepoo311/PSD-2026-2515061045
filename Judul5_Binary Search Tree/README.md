@@ -1,7 +1,7 @@
 
-# Sistem parkir berbasis stack
+# Sistem Leaderboard
 
-Sebuah program sederhana yang berfungsi untuk mengatur sebuah parkiran.
+Sebuah program sederhana yang berfungsi untuk menyimpan sebuah leaderboard
 
 ## Penjelasan source code
 
