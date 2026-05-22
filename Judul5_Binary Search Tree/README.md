@@ -122,5 +122,5 @@ Baris 135-136 : Memanggil fungsi main() untuk memastikan dan menjalankan kode pr
 
 ## Live demo
 
-[Link Youtube](https://youtu.be/NxW6CFhpP5Q)
+[Link Youtube](https://youtu.be/OutRrjfI9Jw)
 
